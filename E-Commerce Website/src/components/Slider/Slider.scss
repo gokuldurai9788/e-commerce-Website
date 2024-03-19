@@ -1,0 +1,14 @@
+@import "../../App.scss";
+.hero-slider{
+    &-item{
+        // height: 280px;
+        height: auto;
+        img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+}
+
+/* Custom styles for your slider */
